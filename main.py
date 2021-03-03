@@ -1,4 +1,4 @@
-from Math import myStatistics
+from myMath import myStatistics
 
 X = []
 
